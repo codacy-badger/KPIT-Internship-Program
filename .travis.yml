@@ -1,6 +1,0 @@
-language :c
-sudo : false
-compiler : gcc
-script :
-	-gcc -o file file.c
-	- ./file
