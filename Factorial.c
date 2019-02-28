@@ -6,5 +6,5 @@ void main(){
  for(int i = 1; i <= n; i ++){
 	factorial *= i;
  }
- printf("%d",factorial);
+ printf("%llu",factorial);
 }
